@@ -3,5 +3,6 @@
 void main
 {
 cout<<"Hello";
-}
+
 getch();
+}
