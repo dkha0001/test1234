@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
-void main ()
+int main ()
 {
 cout<<"Hello";
-getch();
+return (0);
 }
